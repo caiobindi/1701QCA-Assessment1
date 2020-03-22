@@ -11,7 +11,6 @@
 (Say "HELLO" to the BBC mirco:bit)
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](Experiment 1.jpg)
 
