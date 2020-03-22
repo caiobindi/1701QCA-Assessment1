@@ -27,9 +27,8 @@ This experiment could be the basis of a real world application such as a custome
 Dimming an LED using a potentionmeter 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image]Experiment 3.jpg)
+![Image](Experiment 3.jpg)
 
 This is a picture of the third experiment I did using the inventor's kit.
 
@@ -44,7 +43,6 @@ This experiment could be the basis of a real world application such as a light s
 Using a transistor to drive a motor
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment 4.jpg)
 
@@ -61,7 +59,6 @@ This experiment could be the basis of a real world application such as a fan whi
 Wind power 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment 7.jpg)
 
@@ -78,7 +75,6 @@ This experiment could be the basis of a real world application such as wind turb
 Making a game using the compass
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Experiment 8.jpg)
 
