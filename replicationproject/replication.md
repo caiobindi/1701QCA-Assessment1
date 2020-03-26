@@ -5,10 +5,55 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+Guitar
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
+
+### Related project 1 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 1 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 1 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 1 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 1 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
 
 ### Related project 1 ###
 (Insert name of project)
@@ -48,11 +93,11 @@ This project is related to mine because (insert reasons here).
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: When working with theses types of projects it can take many tries to get something to work correctly and you have to be patient when doing so..*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: Arduino is somthing I found a interesting and I would like to learn more about how its works.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: The ideas in this reading was that I might get the project working first try. This helps me understand that in order to successfully do something correctly it will take me many tries and I'll have to be patient.*
 
 
 ## Interaction flowchart ##
