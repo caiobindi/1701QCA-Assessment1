@@ -107,25 +107,26 @@ This project is related to mine because they both use similar materials.
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
-![Image](missingimage.png)
-
-*Include screenshots of the code you have used.*
+![Image](making1.jpg)
+![Image](making2.jpg)
+![Image](making3.jpg)
+![Image](making4.jpg)
+![Image](making5.jpg)
+![Image](making6.jpg)
+![Image](making7.jpg)
+![Image](making8.jpg)
+![Image](making9.jpg)
+![Image](making10.jpg)
+![Image](making11.jpg)
+![Image](making12.jpg)
 
 ## Project outcome ##
 
-*Complete the following information.*
-
-### Project title ###
+### Cardboard guitar ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project is a gutiar made out of cardboard and it uses a micro:bit and a speaker to create sound. What it does is the micro:bit was programmed to create sound and the user is able to intract with that sound by tipping the guitar or putting their hand over the micro:bit LED. This project is for anyone that want to feel like their playing a gutiar without having to spend lots of money. For example, it could be used by a small child.
 
 ### Showcase image ###
 
@@ -141,8 +142,7 @@ This project is related to mine because they both use similar materials.
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
-
+I feel like I was most successful in crafting the guitar, it wasn't anything new to me, the process was very straight forward. In the other hand coding the project was much more difficult for me since I've never done anything like this before. In some parts i found it hard to understand what  was going on with the code.
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
