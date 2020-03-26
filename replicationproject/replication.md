@@ -11,58 +11,58 @@ Guitar
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Reaction game
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=DgJ-S0q0EMs
 
-![Image](missingimage.png)
+![Image](Reaction game.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because of the matrials used and how the aluminum foil is used as some sort of interactive surface.
 
-### Related project 1 ###
-(Insert name of project)
+### Related project 2 ###
+Interactive Proximity Sensing Table Modules
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=h5n0rw8wo14&t=113s
 
-![Image](missingimage.png)
+![Image](Light.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses light to control the interaction.
 
-### Related project 1 ###
-(Insert name of project)
+### Related project 3 ###
+Money robot
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=Jskg6gfSGd8&t=27s
 
-![Image](missingimage.png)
+![Image](Money robot.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses cardboard.
 
-### Related project 1 ###
-(Insert name of project)
+### Related project 4 ###
+Milk monster
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=egl3fNAYylk
 
-![Image](missingimage.png)
+![Image](Money monster.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it functions the same, it reacts differently to the amount of light is exposed to the micro:bit.
 
-### Related project 1 ###
-(Insert name of project)
+### Related project 5 ###
+Arduino electronic Compass
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=w3Gz472O93s&t=966s
 
-![Image](missingimage.png)
+![Image](Digital compass.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because they the both use compass technology to function.
 
-### Related project 1 ###
-(Insert name of project)
+### Related project 6 ###
+Roulette game
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=eqJrQhxwZwU
 
-![Image](missingimage.png)
+![Image](Roulette.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because they both use similar materials.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
