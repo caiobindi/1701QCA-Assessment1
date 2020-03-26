@@ -15,7 +15,7 @@ Reaction game
 
 https://www.youtube.com/watch?v=DgJ-S0q0EMs
 
-![Image](Reaction game.PNG)
+![Image](Reactiongame.PNG)
 
 This project is related to mine because of the matrials used and how the aluminum foil is used as some sort of interactive surface.
 
@@ -33,7 +33,7 @@ Money robot
 
 https://www.youtube.com/watch?v=Jskg6gfSGd8&t=27s
 
-![Image](Money robot.PNG)
+![Image](Moneyrobot.PNG)
 
 This project is related to mine because it uses cardboard.
 
@@ -42,7 +42,7 @@ Milk monster
 
 https://www.youtube.com/watch?v=egl3fNAYylk
 
-![Image](Money monster.PNG)
+![Image](Moneymonster.PNG)
 
 This project is related to mine because it functions the same, it reacts differently to the amount of light is exposed to the micro:bit.
 
@@ -51,7 +51,7 @@ Arduino electronic Compass
 
 https://www.youtube.com/watch?v=w3Gz472O93s&t=966s
 
-![Image](Digital compass.PNG)
+![Image](Digitalcompass.PNG)
 
 This project is related to mine because they the both use compass technology to function.
 
