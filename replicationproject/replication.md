@@ -42,7 +42,7 @@ Milk monster
 
 https://www.youtube.com/watch?v=egl3fNAYylk
 
-![Image](Moneymonster.PNG)
+![Image](Milkmonster.PNG)
 
 This project is related to mine because it functions the same, it reacts differently to the amount of light is exposed to the micro:bit.
 
@@ -130,24 +130,20 @@ This project is a gutiar made out of cardboard and it uses a micro:bit and a spe
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](Guitar1.jpg)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](Guitar2.jpg)
+![Image](Guitar3.jpg)
 
 ### Reflection ###
 
 I feel like I was most successful in crafting the guitar, it wasn't anything new to me, the process was very straight forward. In the other hand coding the project was much more difficult for me since I've never done anything like this before. In some parts i found it hard to understand what  was going on with the code.
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
+The information I found useful was 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+An interesting extension of the project could be making other instruments. This could be used to make a song only using theses instruments. 
