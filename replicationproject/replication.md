@@ -71,33 +71,34 @@ This project is related to mine because they both use similar materials.
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before I read this text I believed signifiers won't as important in design as they are.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I learnt that signifiers are important in design because it allows whoever is interacting with an object understand what to do.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to learn more about what makes a good or bad signifier.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+In my project I must make sure the user understands what to do with it, therefore I must use signifiers.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before reading the text was that Micro interactions were not as important in products and the text made be thin otherwise.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learnt after reading this text is that Micro interactions plays a vital role in user experience and it could be a reason some likes a product or not. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about is what makes a good Micro interaction?
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+projects or how ideas in the reading could be used to improve your project.*
+The idea that the little details could dramtically improve a project beacuse I will make sure to focus knowning the impact it could have.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before reading this text is that making theses projects you should be able to complete it on the first couple tries and should not take much work if you know what your doing.
 
-*What I learned: When working with theses types of projects it can take many tries to get something to work correctly and you have to be patient when doing so..*
+What I learnet When working with theses types of projects it can take many tries to get something to work correctly and you have to be patient when doing so.
 
-*What I would like to know more about: Arduino is somthing I found a interesting and I would like to learn more about how its works.*
+Arduino is somthing I found really interesting and I would like to learn more about how its works.
 
-*How this relates to the project I am working on: The ideas in this reading was that I might get the project working first try. This helps me understand that in order to successfully do something correctly it will take me many tries and I'll have to be patient.*
+The ideas in this reading was that I might get the project working first try. This helps me understand that in order to successfully do something correctly it will take me many tries and I'll have to be patient.
 
 
 ## Interaction flowchart ##
@@ -119,6 +120,8 @@ This project is related to mine because they both use similar materials.
 ![Image](making10.jpg)
 ![Image](making11.jpg)
 ![Image](making12.jpg)
+![Image](code.PNG)
+
 
 ## Project outcome ##
 
@@ -141,8 +144,7 @@ This project is a gutiar made out of cardboard and it uses a micro:bit and a spe
 
 I feel like I was most successful in crafting the guitar, it wasn't anything new to me, the process was very straight forward. In the other hand coding the project was much more difficult for me since I've never done anything like this before. In some parts i found it hard to understand what  was going on with the code.
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-The information I found useful was 
+I used techniques of using cardboard as my main material. Many of the related projects I saw used cardboard. 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
